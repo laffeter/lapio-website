@@ -1,3 +1,11 @@
-p{
+head{
     background-color: red;
+}
+p,
+li,
+a{
+    color : orange;
+}
+.red{
+    color: red;
 }
